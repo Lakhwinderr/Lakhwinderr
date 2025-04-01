@@ -5,13 +5,9 @@
 
 - 🌱 I’m currently learning **Redux, Svelte and SASS.**
 
-- 👯 I’m looking to collaborate on **GrammarHub Project.**
+- 👯 I’m looking to collaborate on **Zen Youtube Project.**
 
-- 🤝 I’m looking for help with **GrammarHub Project.**
-
-- 👨‍💻 All of my projects are available at [https://lakhwinder.co/Portfolio](https://lakhwinder.co/Portfolio)
-
-- 📝 I regularly write articles on [https://lakhwinder.co](https://lakhwinder.co)
+- 👨‍💻 All of my projects are available at [Portfolio]([https://lakhwinder.co/Portfolio](https://lakhwinder.netlify.app/))
 
 - 💬 Ask me about **HTML, CSS, JavaScript and React.**
 
