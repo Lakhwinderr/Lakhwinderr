@@ -1,34 +1,122 @@
-<h1 align="center">Hi 👋, I'm Lakhwinder</h1>
-<h3 align="center">A passionate frontend developer and software engineer from India.</h3>
-<img alt= "ghw" align= "right" src = "https://framerusercontent.com/images/naRbdasp7DL2nc0KRnmvppAQtyc.png" />
-- 🔭 I’m currently working on **FreecodeCamp Responsive Design Specialization.**
+<h1 align="center">Hi 👋, I'm Lakhwinder Singh</h1>
 
-- 🌱 I’m currently learning **Redux, Svelte and SASS.**
+<h3 align="center">Junior Software Developer | Frontend & Full-Stack Developer | Builder</h3>
 
-- 👯 I’m looking to collaborate on **Zen Youtube Project.**
-
-- 👨‍💻 All of my projects are available at [Portfolio]([https://lakhwinder.co/Portfolio](https://lakhwinder.netlify.app/))
-
-- 💬 Ask me about **HTML, CSS, JavaScript and React.**
-
-- 📫 How to reach me **lakhwinder.code@gmail.com**
-
-- ⚡ Fun fact **I am psychic medium.**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://codepen.io/lakhwinderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lakhwinderr" height="30" width="40" /></a>
-<a href="https://dev.to/lakhwinderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lakhwinderr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lakhwinderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakhwinderr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lakhwinderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakhwinderr" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://lakhwinderr.github.io">Portfolio</a> •
+  <a href="https://github.com/Lakhwinderr">GitHub</a> •
+  <a href="https://linkedin.com/in/lakhwinderr">LinkedIn</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakhwinderr&show_icons=true&locale=en&layout=compact" alt="lakhwinderr" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakhwinderr&show_icons=true&locale=en" alt="lakhwinderr" /></p>
+I'm a software developer focused on building practical web applications and learning how the pieces of a system work together.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakhwinderr&" alt="lakhwinderr" /></p>
+- 🔭 Currently building **full-stack applications with the MERN stack**
+- 🌱 Currently learning **Node.js, Express, MongoDB, Mongoose, REST APIs and backend development**
+- 🛠️ Building **Little Lemon**, a full-stack restaurant reservation application
+- 🐍 Also interested in **Python automation and developer tooling**
+- ⚡ I enjoy learning by **building, experimenting and solving practical problems**
+- 🎯 Looking for a **junior / trainee software development opportunity**
+- 📫 Reach me at **lakhwinder.code@gmail.com**
+
+### 🚀 Featured Project
+
+#### 🍋 Little Lemon — Full-Stack Restaurant Reservation App
+
+A full-stack restaurant reservation application built by extending a React frontend with a Node.js/Express backend and MongoDB database.
+
+**Tech:** React • Node.js • Express • MongoDB • Mongoose • REST APIs
+
+**What I'm working on:**
+- Reservation CRUD operations
+- React ↔ REST API integration
+- MongoDB persistence
+- Mongoose schemas and validation
+- Loading and error handling
+- Backend API design
+
+---
+
+### 🧰 Technologies & Tools
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+</p>
+
+**Frontend:** HTML5 • CSS3 • JavaScript • React • React Router • Bootstrap • Tailwind CSS
+
+**Backend:** Node.js • Express.js • REST APIs • HTTP • Middleware • CORS
+
+**Database:** MongoDB • Mongoose • CRUD • Schema Design
+
+**Languages:** JavaScript • Python • C/C++ (working knowledge)
+
+**Tools:** Git • GitHub • Linux • VS Code • npm • NVM
+
+**Other:** UI/UX • Figma • Python Automation • Arduino/Electronics
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Lakhwinderr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/lakhwinderr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://lakhwinderr.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakhwinderr&show_icons=true&hide_border=true&locale=en" alt="Lakhwinder's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakhwinderr&hide_border=true" alt="Lakhwinder's GitHub streak"/>
+</p>
+
+---
+
+### 💡 Currently
+
+I'm focused on becoming a stronger **full-stack developer by building real applications**, understanding the fundamentals behind them, and gradually turning projects into production-quality work.
